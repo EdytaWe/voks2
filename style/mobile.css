@@ -250,8 +250,17 @@ margin-top: 50px;
 #break{
 	background-color: var(--color-orange);
 	color: var(--color-white);
-	padding: 100px 100px;
-
+	padding: 100px 20px;
+}
+.break__title{
+	font-size: 2.3rem;
+	font-weight: 600;
+	text-align: center;
+}
+.break__descr{
+	padding-top: 30px;
+	font-size: 1.3rem;
+	text-align: center;
 }
 
 #gallery{
